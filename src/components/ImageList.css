@@ -1,0 +1,19 @@
+.image-list {
+    columns: 6 200px;
+    column-gap: 10px
+}
+
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.btn-load {
+    display: flex;
+    width: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+    margin: 20px auto;
+}
